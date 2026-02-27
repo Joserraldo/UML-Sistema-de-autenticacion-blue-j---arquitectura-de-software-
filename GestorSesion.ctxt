@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GestorSesion
+comment1.params=
+comment1.target=GestorSesion()
+comment2.params=usuario
+comment2.target=void\ crearSesion(Usuario)
+comment3.params=id
+comment3.target=void\ cerrarSesion(java.lang.String)
+numComments=4

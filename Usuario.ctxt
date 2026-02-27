@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=id\ nombre\ email\ passwordHash
+comment1.target=Usuario(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=password\ servicio
+comment2.target=boolean\ autenticar(java.lang.String,\ ServicioEncriptacion)
+comment3.params=
+comment3.target=void\ cerrarSesion()
+comment4.params=nuevoNombre
+comment4.target=void\ actualizarPerfil(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+comment6.params=
+comment6.target=java.lang.String\ getPasswordHash()
+comment7.params=
+comment7.target=java.lang.String\ getNombre()
+numComments=8

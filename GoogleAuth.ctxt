@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GoogleAuth
+comment1.params=clientId\ clientSecret\ redirectURI
+comment1.target=GoogleAuth(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ solicitarToken()
+comment3.params=token
+comment3.target=boolean\ validarToken(java.lang.String)
+comment4.params=token
+comment4.target=java.lang.String\ obtenerDatosUsuario(java.lang.String)
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RegistroUsuario
+comment1.params=baseDeDatos\ servicio
+comment1.target=RegistroUsuario(BaseDeDatos,\ ServicioEncriptacion)
+comment2.params=id\ nombre\ email\ password
+comment2.target=void\ registrar(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

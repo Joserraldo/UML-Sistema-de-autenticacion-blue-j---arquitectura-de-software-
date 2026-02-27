@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=accessToken\ refreshToken\ fechaExpiracion
+comment1.target=Token(java.lang.String,\ java.lang.String,\ java.util.Date)
+comment2.params=
+comment2.target=boolean\ esValido()
+comment3.params=nuevaFecha
+comment3.target=void\ renovar(java.util.Date)
+numComments=4

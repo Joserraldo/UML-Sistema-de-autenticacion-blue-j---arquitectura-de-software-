@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ServicioEncriptacion
+comment1.params=password
+comment1.target=java.lang.String\ encriptarPassword(java.lang.String)
+comment2.params=password\ hashGuardado
+comment2.target=boolean\ verificarPassword(java.lang.String,\ java.lang.String)
+numComments=3

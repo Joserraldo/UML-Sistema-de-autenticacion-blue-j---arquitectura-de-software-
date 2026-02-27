@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sesion
+comment1.params=idSesion\ usuario
+comment1.target=Sesion(java.lang.String,\ Usuario)
+comment2.params=
+comment2.target=void\ finalizar()
+comment3.params=
+comment3.target=boolean\ isActiva()
+numComments=4

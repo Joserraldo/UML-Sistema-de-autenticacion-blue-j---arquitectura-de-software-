@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Autenticador
+comment1.params=baseDeDatos\ servicio
+comment1.target=Autenticador(BaseDeDatos,\ ServicioEncriptacion)
+comment2.params=email\ password
+comment2.target=Usuario\ login(java.lang.String,\ java.lang.String)
+comment3.params=proveedor
+comment3.target=void\ loginConProveedor(ProveedorOAuth)
+comment4.params=usuario
+comment4.target=void\ logout(Usuario)
+numComments=5
